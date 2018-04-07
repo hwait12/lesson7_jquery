@@ -1,0 +1,1 @@
+In order to enhance the myRecipe application, I changed the "fadeIn" animation to a "slideDown," and added a little bit of breathing room between the header and the list items by adding a CSS element change.
