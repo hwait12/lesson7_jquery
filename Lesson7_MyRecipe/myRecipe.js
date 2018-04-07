@@ -10,7 +10,7 @@
 //displays the next element after the current target 
 function display(event) {
       
-    $(event.currentTarget).next().slideDown("fast")
+    $(event.currentTarget).next().animate( {height: 'toggle' }, "slow")
     $(event.currentTarget).height("2em")
     
 }//end of display
